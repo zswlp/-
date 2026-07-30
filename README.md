@@ -20,7 +20,7 @@
 
 
 ![展示页面](https://raw.githubusercontent.com/zswlp/-/refs/heads/main/444.png#pic_center)
-![设置页面](https://raw.githubusercontent.com/zswlp/-/refs/heads/main/ScreenShot_2026-07-01_165331_272.png#pic_center)
+![设置页面](https://raw.githubusercontent.com/zswlp/-/refs/heads/main/555.png#pic_center)
 
 
 ## 使用方法
